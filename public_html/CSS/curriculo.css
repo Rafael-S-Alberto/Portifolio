@@ -1,0 +1,60 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 6 de jun. de 2024, 18:40:38
+    Author     : r_alb
+*/
+
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+#iconeTopo {
+    font-size: 16px;
+    margin: 0px 8px 0px 0px;
+}
+
+#icones {
+    margin: 8px 8px;
+}
+
+#graduacoes {
+    margin: 35px 0px 35px 0px;
+}
+
+#topico {
+    font-size: 12px;
+    margin: 0px;
+}
+
+#topico2 {
+    font-size: 12px;
+    margin-right: 8px;
+}
+
+#icones {
+    font-size: 18px;
+    margin: 0px 8px 0px 0px;
+}
+
+ion-icon {
+    font-size: 18px;
+    margin-right: 16px;
+}
+
+#cinza {
+    color: #999999;
+}
+
+li {
+    margin-top: 5px;
+}

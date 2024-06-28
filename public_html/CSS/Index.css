@@ -1,0 +1,68 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 20 de mai. de 2024, 20:04:08
+    Author     : r_alb
+*/
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+    margin-top: 16px;
+}
+
+#titulo1{
+    text-align: center;
+    font-size: 50px;
+}
+
+#titulo{
+    display: flex;
+    justify-content: center;
+}
+
+#painel {
+    display: flex;
+}
+
+#imagemPequena{
+    margin: 16px;
+}
+
+#imagemPequena img{
+    border: solid 2px black;
+}
+
+#imagem {
+    display: flex;
+    margin: 16px;
+    padding: 0px;
+    align-items: center;
+    background-image: url("../Assets/FundoMadeira.jpg");
+}
+
+#imagem img{
+    border: 2px solid black;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+#texto {
+    margin: 0px 16px;
+    line-height: 1.5;
+    font-size: 14px;
+    text-align: justify;
+}
+
+#icones {
+    font-size: 18px;
+    margin: 8px 8px;
+}

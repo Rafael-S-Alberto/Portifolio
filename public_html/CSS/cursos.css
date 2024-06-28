@@ -1,0 +1,33 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 6 de jun. de 2024, 18:40:14
+    Author     : r_alb
+*/
+
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+#icones {
+    font-size: 18px;
+    margin: 8px 8px;
+}
+
+#topico2 {
+    font-size: 12px;
+    margin-right: 8px;
+}
+
+#cinza {
+    color: #999999;
+}
